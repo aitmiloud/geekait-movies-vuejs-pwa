@@ -1,7 +1,7 @@
 <template>
   <footer :class="$style.footer">
     <p>&copy; {{ new Date().getFullYear() }} Geekait. All rights reserved.</p>
-    <p>Designed by <a target="_blank" href="https://geekait2.github.io/aichainajarin/">A.Inajarin</a> and built by M.Aitmiloud, data provided by <a target="_blank" href="https://www.themoviedb.org/" rel="noopener">TMDb</a>.</p>
+    <p>Designed by <a target="_blank" href="#">A.Inajarin</a> and built by M.Aitmiloud, data provided by <a target="_blank" href="https://www.themoviedb.org/" rel="noopener">TMDb</a>.</p>
 
     <ul class="nolist">
       <li>
